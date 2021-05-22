@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Deep Network
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me applyjobrauf@gmail.com
+- 📫 How to reach me raufjonodiljonov@gmail.com
 
 <!---
 iamraufodilov/iamraufodilov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
